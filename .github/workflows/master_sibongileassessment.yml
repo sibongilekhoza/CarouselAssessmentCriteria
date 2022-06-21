@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'sibongileAssessment'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D5207D2D3D944DCB9335F06DF9F2D2AD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_70C6D8CC1D794E82BDC8C041C50A36E2 }}
           package: .
